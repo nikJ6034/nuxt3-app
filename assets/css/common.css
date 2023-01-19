@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+ul, ol, dl { list-style: none; padding: 0; }
+.skip { display: block; overflow: hidden; position: absolute; top: 0; left: -1000em; }
+caption { display: none; }
+textarea { resize: none; }
+.clear { clear:both !important; }
+.in-block { display: inline-block; }
+.bold { font-weight: 500; }
